@@ -18,5 +18,10 @@ of various elements using NumPy and Matplotlib.
 - NumPy
 - Matplotlib
 
+## Feedback
+I'm a second-year physics student and always looking 
+to improve. Feel free to open an issue or contact me 
+if you have any suggestions or corrections !
+
 ## Author
 Lucas Gremone — Physics Student at Lyon 1
