@@ -12,7 +12,8 @@ of various elements using NumPy and Matplotlib.
   of Iodine-131 with experimental noise 
 - **Decay Comparison** : Comparison of decay curves
   for Iodine-131, Barium-140 and Cerium-141
- (For both there is a version with the curve animated) 
+
+(For both there is a version with the curve animated) 
 
 ## Requirements
 - Python 3.x
